@@ -14,4 +14,12 @@ System.out.println("M2");
 		System.out.println("M3");
 
 	}
+	private void chennai() {
+		System.out.println("chennai");
+
+	}
+	private void mumbai() {
+		System.out.println("mumbai");
+
+	}
 }
