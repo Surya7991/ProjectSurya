@@ -36,4 +36,7 @@ public class GitHub {
 		System.out.println("yellow");
 
 	}
+	private void green() {
+		System.out.println("green");
+	}
 }
