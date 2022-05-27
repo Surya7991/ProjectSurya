@@ -14,4 +14,16 @@ System.out.println("M2");
 		System.out.println("M3");
 
 	}
+	
+	private void abinesh() {
+		System.out.println("abinesh");
+		
+	}
+	
+	private void abineshclose() {
+		System.out.println("abinesh close");
+	}
+	
+	
+	
 }
