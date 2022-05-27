@@ -6,7 +6,7 @@ public class GitHub {
 		System.out.println("M1");
 
 	}
-	private void m2() {
+	private void m2allign() {
 		System.out.println("M2");
 	}
 
