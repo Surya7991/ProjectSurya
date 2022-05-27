@@ -28,4 +28,12 @@ public class GitHub {
 	private void bus() {
 	System.out.println("bus");
 	}
+	private void red() {
+		System.out.println("red");
+
+	}
+	private void yellow() {
+		System.out.println("yellow");
+
+	}
 }
