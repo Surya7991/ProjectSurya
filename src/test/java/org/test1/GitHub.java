@@ -14,4 +14,17 @@ public class GitHub {
 		System.out.println("M3");
 
 	}
+	
+	private void orange() {
+		System.out.println("orange");
+	}
+	
+	private void apple() {
+		System.out.println("Apple");
+	}
+	
+	
+	
+	
+	
 }
