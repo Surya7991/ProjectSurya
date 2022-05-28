@@ -38,8 +38,20 @@ public class GitHub {
 
 	}
 	
+	private void red() {
+		System.out.println("red");
+
+	}
+	private void yellow() {
+		System.out.println("yellow");
+
+	}
+	private void green() {
+		System.out.println("green");
+	}
 	private void ooty() {
 		System.out.println("Ooty");
 	}
-	
 }
+
+
