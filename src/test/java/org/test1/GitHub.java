@@ -37,4 +37,9 @@ public class GitHub {
 		System.out.println("Apple");
 
 	}
+	
+	private void ooty() {
+		System.out.println("Ooty");
+	}
+	
 }
