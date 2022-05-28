@@ -37,6 +37,7 @@ public class GitHub {
 		System.out.println("Apple");
 
 	}
+	
 	private void red() {
 		System.out.println("red");
 
@@ -48,4 +49,9 @@ public class GitHub {
 	private void green() {
 		System.out.println("green");
 	}
+	private void ooty() {
+		System.out.println("Ooty");
+	}
 }
+
+
